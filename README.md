@@ -9,7 +9,3 @@ Open source 3d working piano model using the libraries VPython and pygame.
 -sample song included (check code to find out which keys to press for the song).  
 -audio was implemented using pygame.mixer and high quality sound files provided by http://theremin.music.uiowa.edu/MISpiano.html   
 -sound files were edited using http://www.audacityteam.org  to meet my required criteria ( duration, size, .aiff to .wav, etc. )  
-  
-## To be done  
-Add better documentations including download requirements.  
-Add better screenshots/explanation of the project
