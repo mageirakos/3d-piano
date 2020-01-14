@@ -1,6 +1,9 @@
 # 3d-piano
 
 ## About   
+This is currently outdated code and needs debugging. 
+
+
 Open source 3d working piano model using the libraries VPython and pygame.    
 ![piano sample](https://github.com/mageirakos/3d-piano/blob/master/piano_model.png?raw=true)    
 
