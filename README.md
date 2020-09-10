@@ -1,7 +1,7 @@
 # 3d-piano
 
 ## About   
-This is currently outdated code and needs debugging. 
+This is currently outdated code. 
 I believe its python 2.7 and an older version of vpython. 
 
 Open source 3d working piano model using the libraries VPython and pygame.    
